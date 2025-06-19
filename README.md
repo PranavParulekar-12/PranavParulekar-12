@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavparulekar-12&show_icons=true&locale=en" alt="pranavparulekar-12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavparulekar-12&" alt="pranavparulekar-12" /></p>
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/PranavParulekar-12/PranavParulekar-12/gh-pages/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
